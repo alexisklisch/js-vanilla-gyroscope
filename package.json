@@ -1,0 +1,16 @@
+{
+  "name": "mobile-move",
+  "private": true,
+  "description": "Ejemplo práctico de cómo usar el giroscopio incorporado en los navegadores con motor V8.",
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "4.2.0",
+    "vite-plugin-mkcert": "1.13.3"
+  }
+}
